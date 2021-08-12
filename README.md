@@ -18,9 +18,3 @@
   <div align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/athiliovilela/count.svg" />
  </div>
-
-[Snake animation](https://github.com/athiliovilela/athiliovilela/blob/output/github-contribution-grid-snake.svg)
-<!---
-athiliovilela/athiliovilela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
