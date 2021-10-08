@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Athilio Vilela (@athiliovilela)
 - 👀 I’m interested in increase my knowledge
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and SQL
 
 <div>
   <a href="https://github.com/athiliovilela">
